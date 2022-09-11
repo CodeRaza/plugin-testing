@@ -1,0 +1,10 @@
+{
+  "smart-buy-route-protection": {
+    "id": "smart-buy-route-protection",
+    "name": "Smart Buy & Route Protection",
+    "tax_class": "",
+    "taxable": false,
+    "amount": "3.99",
+    "total": 0
+  }
+}

@@ -1,0 +1,15 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ #wc_checkout_add_ons img {
+	border-radius:99px;
+	float:right;
+	width:60px;
+	height:60px;
+}
+
+#wc_checkout_add_ons .form-row {
+	margin-bottom:20px !important;
+}

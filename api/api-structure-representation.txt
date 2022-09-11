@@ -1,0 +1,21 @@
+API response json structure
+
+if error
+    
+    {
+        response_status: 404,
+        error_message: "error message"
+    }
+
+if not error
+
+    {
+        response_status: 200,
+        data: {
+            ...data
+        },
+        meta: {
+            method: "GET",
+            subject: "User Data"
+        }
+    }
